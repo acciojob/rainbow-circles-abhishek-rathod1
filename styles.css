@@ -1,6 +1,6 @@
 #outer{
-	width: 250px;
-	height: 250px;	
+	width: 300px;
+	height: 300px;	
 	background-color: #ffa500;  /* orange */
 	border-radius: 50%;	
 	border: 25px solid #ff0000;/*  red*/
@@ -11,8 +11,8 @@
 	
 }
 #middle{
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	height: 200px;
 	background-color: #008000;
 	border-radius: 50%;
 	border: 25px solid #ffff00;
@@ -23,8 +23,8 @@
 }
 
 #inner{
-	width: 50px;
-	height: 50px;
+	width: 100px;
+	height: 100px;
 	background-color: #800080;
 	border-radius: 50%;
 	border: 25px solid #0000ff;
